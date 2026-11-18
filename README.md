@@ -6,8 +6,10 @@ Ingeniería en Tecnologías de la Información y Comunicaciones
 Docente: Mtro. Saúl Isaí Soto Ortiz
 
 **Alumno(s):** 
+Dilan Emir Angeles Martinez 230110252
 Abraham Calva 230110637
 Gustavo López Paz 230110531
+
 
 **Fecha:** Noviembre 2026
 
