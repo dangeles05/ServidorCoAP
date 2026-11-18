@@ -223,6 +223,12 @@ Sin DTLS nada se cifra ni autentica: cualquier compañero en la red puede espiar
 | Respuesta 4.04 inesperada | Ruta mal escrita | Las rutas distinguen mayúsculas: `/sensor`, no `/Sensor` |
 
 ---
+##  Link Video
+
+https://drive.google.com/drive/folders/1HvV9Ul0Ziz3xOba0S_XTpIAkwtOym5S3?usp=sharing
+
+---
+
 
 ## 📝 Conclusiones
 
