@@ -10,6 +10,7 @@ Docente: Mtro. Saúl Isaí Soto Ortiz
 - Abraham Calva 230110637
 - Gustavo López Paz 230110531
 - Lizbeth de Jesús Bernal Franco 230110346
+- Luis Fernando Gonzaga López 230110528
 
 
 **Fecha:** Noviembre 2026
